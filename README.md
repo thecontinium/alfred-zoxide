@@ -23,10 +23,10 @@ In Alfred, type `z` followed by search `query`.
 
 With the selected result, you can:
 
-- press `⌅`(Enter) to open directory in current finder 
-- press `⌅`(Enter) to open directory in new finder tab 
+- press (Enter) to open directory in current finder
+- press `⌘`(Enter) to open directory in new finder tab
 - press `⌥`(Enter) to open directory in new Finder
-- press `⌃`(Enter) to copy directory path to clipboard
+- press `⇧`(Enter) to copy directory path to clipboard
 
 <p>
   <img src="images/demo.gif" alt="demo.gif">
